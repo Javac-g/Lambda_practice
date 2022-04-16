@@ -1,3 +1,5 @@
+package One;
+
 public class One {
 
     public String P(String msg){
