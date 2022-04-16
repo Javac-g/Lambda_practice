@@ -1,5 +1,5 @@
-public interface Tool {
+public interface Tool<T> {
 
-    String function(String msg);
+    T function(T msg);
 
 }

@@ -1,26 +1,9 @@
 public class Main {
 
-    static  String Srunner(ToolS tool, String msg){
 
-        return "Value: " + tool.function(msg);
 
-    }
-    static  Integer Irunner(ToolI tool,Integer num){
 
-        return tool.function(num);
 
-    }
-
-    static <T> Integer Irun(IT<T> tool,T t){
-
-        return tool.function(t);
-
-    }
-    static <T> String Srun(ST<T> tool , T t){
-
-        return tool.function(t);
-
-    }
     public static void main(String...args){
 
         ToolI toolI = num -> num * 9;
@@ -44,10 +27,19 @@ public class Main {
             return res;
         };
 
+        IT<Integer> itgen= num->num+99;
+        ST<String> strgen = msg-> msg.replace('e','Q');
+
+        //One-liners
         System.out.println(toolI.function(321));
         System.out.println(toolS.function("hello my name is maks markes"));
+
+        //Blocks
         System.out.println(IntBlock.function(23));
         System.out.println(StrBlock.function("qwerty"));
+
+
+
 
 
 
