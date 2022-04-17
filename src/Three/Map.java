@@ -1,11 +1,11 @@
 package Three;
 
 public class Map<T> {
-    T[] objects;
+    T[] array;
 
-    Map(T[] objects){
+    Map(T[] array){
 
-        this.objects = objects;
+        this.array = array;
 
     }
 
