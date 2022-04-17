@@ -1,3 +1,5 @@
+package Two;
+
 public class Metod {
 
     static <T> String IsIn(T[] arr , T t){

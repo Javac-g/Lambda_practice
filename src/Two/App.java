@@ -1,3 +1,5 @@
+package Two;
+
 public class App {
 
     static <T> String SRun(StrINF<T> tool , T[] vals,T t){
