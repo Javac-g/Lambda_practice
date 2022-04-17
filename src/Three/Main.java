@@ -31,9 +31,17 @@ public class Main {
     }
 
     public static void main(String...args){
+        XY[] xy = {new XY<String>("one","two"), new XY<Integer>(11,22)};
+        XYZ[] xyz = {new XYZ<>("three","four","five"), new XYZ<>(1,2,3), new XYZ<>(22.1,11.2,12.12)};
+        XYZT[] xyzt = {new XYZT<>(1.32F,2.33F,3.432F,4.2F), new XYZT<>(10,20,30,40),new XYZT<>('A','B','C','D')};
 
+        Map<XY> D2 = new Map<>(xy);
+        Map<XYZ> D3 = new Map<>(xyz);
+        Map<XYZT> D4 = new Map<>(xyzt);
 
-
+        show_XY(D2);
+        show_XYZ(D3);
+        show_XYZT(D4);
 
     }
 }
