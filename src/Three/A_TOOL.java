@@ -1,4 +1,7 @@
 package Three;
 
-public class A_TOOL {
+public interface A_TOOL<T,V> {
+
+    V function(T[] vals,T t);
+
 }
