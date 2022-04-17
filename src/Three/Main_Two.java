@@ -19,6 +19,8 @@ public class Main_Two {
 
 
         CubeFunc<Integer> A = Cube<Integer> :: new;
+        Cube<Integer> cubic = A.function(1,2,3);
+
 
 
 
