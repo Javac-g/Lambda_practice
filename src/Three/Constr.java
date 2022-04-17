@@ -1,7 +1,7 @@
 package Three;
 
-public interface Constr {
+public interface Constr<T,V> {
 
-    Box function(int w,int h , int l);
+    V function(T w, T h , T l);
 
 }
