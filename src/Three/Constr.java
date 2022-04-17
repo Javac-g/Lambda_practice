@@ -1,6 +1,6 @@
 package Three;
 
-public interface Constr<T,V> {
+public interface Constr<V,T> {
 
     V function(T w, T h , T l);
 

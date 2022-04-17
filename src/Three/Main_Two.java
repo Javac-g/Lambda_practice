@@ -1,7 +1,7 @@
 package Three;
 
 public class Main_Two {
-    static <T,V> V boxFactory(Constr<T,V> tool,T w,T h , T l){
+    static <T,V> T boxFactory(Constr<T,V> tool,V w,V h , V l){
 
         return tool.function(w,h,l);
 
@@ -11,6 +11,11 @@ public class Main_Two {
         System.out.println("H: " + box.getHeight());
         System.out.println("L: " + box.getLength());
     }
+    static void PC(Cube cube){
+        System.out.println("W: " + cube.getOne());
+        System.out.println("H: " + cube.getTwo());
+        System.out.println("L: " + cube.getThree());
+    }
     public static void main(String...args){
 
         Cn C = Box::new;
@@ -19,8 +24,16 @@ public class Main_Two {
 
 
         CubeFunc<Integer> A = Cube<Integer> :: new;
-        Cube<Integer> cubic = A.function(1,2,3);
+        CubeFunc<String> B = Cube<String>:: new;
+        Constr<Cube<Character>,Character> D = Cube<Character>:: new;
 
+        Cube<Integer> cubic = A.function(1,2,3);
+        PC(cubic);
+
+        Cube<String> rubic = B.function("One","Two","Three");
+        PC(rubic);
+
+        Cube<Character> last = boxFactory(D,'A','B','C');
 
 
 
