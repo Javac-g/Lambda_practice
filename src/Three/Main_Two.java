@@ -13,9 +13,12 @@ public class Main_Two {
     }
     public static void main(String...args){
 
-        //Constr C = Box::new;
-        //Box box = C.function(12,13,14);
-       // P(box);
+        Cn C = Box::new;
+        Box box = C.function(12,13,14);
+        P(box);
+
+
+
 
     }
 }
