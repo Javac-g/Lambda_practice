@@ -18,6 +18,10 @@ public class Main_Two {
         P(box);
 
 
+        CubeFunc<Integer> A = Cube<Integer> :: new;
+
+
+
 
 
     }
