@@ -22,7 +22,16 @@ public class App {
         Integer[] vals = new Integer[]{1,2,3,4,5,6,7,1,2,3,1,2,31,1,1,12,2,3,4,5};
         String[] valls = new String[]{"one","one","one","one","one","one","one","one","one"};
 
+        System.out.println(Str(Metod::SP,valls,"one"));
+        System.out.println(Str(Metod::SP,vals,1));
 
+        System.out.println(Int(Metod::IP,valls,"one"));
+        System.out.println(Int(Metod::IP,vals,1));
+
+        System.out.println("" + all(Metod::IP,vals,1));
+        System.out.println("" + all(Metod::IP,valls,"one"));
+        System.out.println("" + all(Metod::SP,vals,2));
+        System.out.println("" + all(Metod::SP,valls,"one"));
 
     }
 }
