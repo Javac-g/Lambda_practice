@@ -22,6 +22,9 @@ public class App {
         Box_two<Integer> box_two = constFactory(B,w,h,l);
         System.out.println(box_two.getH());
 
+        Creator<Box_three,String> C = Box_three::new;
+        Box_three box_three = constFactory(C,"w","h","l");
+        System.out.println(box_three.getH());
 
 
 
