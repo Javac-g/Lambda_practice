@@ -1,6 +1,6 @@
 package four;
 
-public class Metod<T> {
+public class Metod {
 
     static <T> String One(T[] vals,T t){
         int count = 0;
