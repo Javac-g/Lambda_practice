@@ -2,6 +2,6 @@ package four.LinksCOnstructor;
 
 public interface Box {
 
-    Box function(int w,int h, int l);
+    Box_one function(int w,int h, int l);
 
 }
