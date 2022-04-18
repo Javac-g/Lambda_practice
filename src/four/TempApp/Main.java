@@ -1,7 +1,7 @@
 package four.TempApp;
 
 public class Main {
-    static <T> int coonter(Tool<T> tool, T[] vals ,T t){
+    private static <T> int counter(Tool<T> tool, T[] vals, T t){
 
         int count = 0;
 
@@ -23,8 +23,8 @@ public class Main {
                                   new Temperature(33),new Temperature(64),new Temperature(33)
         };
 
-        System.out.println(coonter(Temperature::isHiger,weekdays,new Temperature(42)));
-        System.out.println(coonter(Temperature::isSame,weekdays,new Temperature(33)));
+        System.out.println(counter(Temperature::isHiger,weekdays,new Temperature(42)));
+        System.out.println(counter(Temperature::isSame,weekdays,new Temperature(33)));
 
 
     }

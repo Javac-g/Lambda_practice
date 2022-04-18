@@ -1,6 +1,6 @@
 package four.TempApp;
 
-public class Temperature {
+class Temperature {
 
     private int Max;
 
@@ -20,7 +20,7 @@ public class Temperature {
     }
 
 
-    public int getMax() {
+    private int getMax() {
         return Max;
     }
 }
