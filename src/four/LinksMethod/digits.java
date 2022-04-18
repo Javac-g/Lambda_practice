@@ -1,4 +1,4 @@
-package four;
+package four.LinksMethod;
 
 public interface digits<T> {
 

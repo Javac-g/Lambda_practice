@@ -1,4 +1,4 @@
-package four;
+package four.LinksMethod;
 
 public class App {
 
@@ -29,7 +29,7 @@ public class App {
         System.out.println("hi present: "+ S(Metod::One,str,"hi"));
         System.out.println("1 present: " + S(Metod::One,vals,1));
 
-        System.out.println("is present: "+ I(Metod::Two,str,"is"));
+        System.out.println("is present: "+ I(Metod::Two,str,"Is"));
         System.out.println("4 present: " + I(Metod::Two,vals,4));
 
         System.out.println("name present: "+ A(Metod::One,str,"name"));
