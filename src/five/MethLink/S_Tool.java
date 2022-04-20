@@ -1,4 +1,4 @@
-package five;
+package five.MethLink;
 
 public interface S_Tool<T> {
 
