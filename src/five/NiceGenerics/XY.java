@@ -2,7 +2,8 @@ package five.NiceGenerics;
 
 public class XY {
 
-    private int x,y;
+    int x;
+    int y;
 
     XY(int x , int y){
 
