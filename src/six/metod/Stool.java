@@ -1,4 +1,4 @@
-package six;
+package six.metod;
 
 public interface Stool<T> {
 
