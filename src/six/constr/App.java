@@ -10,6 +10,8 @@ public class App {
         System.out.println("w: " + a.getW());
         System.out.println("H: " + a.getH());
         System.out.println("L: " + a.getL());
+        //but this is no useful,try next one>>
+
 
 
     }
