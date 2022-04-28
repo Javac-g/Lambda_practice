@@ -25,6 +25,8 @@ public class App {
         System.out.println(I_runner(Metod::digits,arr2,"two"));
 
         System.out.println("" + All(Metod::digits,arr3,22.4));
+        System.out.println("" + All(Metod::words,arr3,22.5));
+
 
 
     }
