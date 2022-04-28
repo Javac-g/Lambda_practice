@@ -19,13 +19,24 @@ public class App {
 
     }
     static void get_things_happen(Integer[] arr1,String[] arr2,Double[] arr3, Float[] arr4,Boolean[] arr5){
-        System.out.println(S_runner(Metod::words,arr1,1));
-        System.out.println(S_runner(Metod::words,arr2,"one"));
-        System.out.println(I_runner(Metod::digits,arr1,2));
-        System.out.println(I_runner(Metod::digits,arr2,"two"));
 
-        System.out.println("" + All(Metod::digits,arr3,22.4));
-        System.out.println("" + All(Metod::words,arr3,22.5));
+        String msg = "Values matched: ";
+
+        System.out.println(msg + S_runner(Metod::words,arr1,1));
+
+        System.out.println(msg + S_runner(Metod::words,arr2,"one"));
+
+        System.out.println(msg + I_runner(Metod::digits,arr1,2));
+
+        System.out.println(msg + I_runner(Metod::digits,arr2,"two"));
+
+        System.out.println(msg + All(Metod::digits,arr3,22.3)); //still return 0
+
+        System.out.println(msg + All(Metod::words,arr3,22.3)); // same 0
+
+        System.out.println(msg + All(Metod::digits,arr4,1.53F));//same 0
+
+        System.out.println(msg + All(Metod::words,arr5,false));
 
 
 
@@ -42,7 +53,7 @@ public class App {
 
         Boolean[] arr5 = {true,false,true, true ,true,false,false,true,false , false,true,true,false,true, true ,true,false,false,true,false , false,true};
 
-
+        get_things_happen(arr1,arr2,arr3, arr4,arr5);
 
 
 
