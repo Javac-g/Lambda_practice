@@ -22,6 +22,9 @@ public class App {
         System.out.println(S_runner(Metod::words,arr1,1));
         System.out.println(S_runner(Metod::words,arr2,"one"));
         System.out.println(I_runner(Metod::digits,arr1,2));
+        System.out.println(I_runner(Metod::digits,arr2,"two"));
+
+        System.out.println();
 
     }
     public static void main(String...args){
