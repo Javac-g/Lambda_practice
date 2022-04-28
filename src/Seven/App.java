@@ -20,6 +20,8 @@ public class App {
         return tool.function(vals,t);
 
     }
+
+
     public static void main(String...args){
 
         Integer[] num = {1,2,3,4,5,6,7,1,1,1,1,2,3,3,3,3,2,2,3,4,4,5,4,4,3,2,1,1,2,3,4};
