@@ -19,7 +19,8 @@ public class App {
 
     }
     static void get_things_happen(Integer[] arr1,String[] arr2,Double[] arr3, Float[] arr4,Boolean[] arr5){
-        System.out.println(S_runner(Metod::words,arr1,"one"));
+        System.out.println(S_runner(Metod::words,arr1,1));
+        System.out.println(S_runner(Metod::words,arr2,"one"));
         System.out.println();
     }
     public static void main(String...args){
