@@ -12,6 +12,12 @@ public class App {
         return tool.function(values,t);
 
     }
+
+    static <V,T> V All(All<V,T> tool, T[] values,T t){
+
+        return tool.function(values,t);
+
+    }
     public static void main(String...args){
 
 
