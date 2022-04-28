@@ -24,7 +24,8 @@ public class App {
         System.out.println(I_runner(Metod::digits,arr1,2));
         System.out.println(I_runner(Metod::digits,arr2,"two"));
 
-        System.out.println();
+        System.out.println("" + All(Metod::digits,arr3,22.4));
+
 
     }
     public static void main(String...args){
