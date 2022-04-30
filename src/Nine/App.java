@@ -26,6 +26,8 @@ public class App {
         System.out.println(S_runner(Metod::words,str,"on" ));
         System.out.println(S_runner(Metod::words,nums,1));
 
+        System.out.println(I_runner(Metod::digits,str,"on" ));
+        System.out.println(I_runner(Metod::digits,nums,1));
 
 
 
