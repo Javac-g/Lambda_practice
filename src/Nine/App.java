@@ -29,6 +29,14 @@ public class App {
         System.out.println(I_runner(Metod::digits,str,"on" ));
         System.out.println(I_runner(Metod::digits,nums,1));
 
+        System.out.println("" + All(Metod::words,str,"on" ));
+        System.out.println("" + All(Metod::words,nums,1));
+
+        System.out.println("" + All(Metod::digits,str,"on" ));
+        System.out.println("" + All(Metod::digits,nums,1));
+
+
+
 
 
 
