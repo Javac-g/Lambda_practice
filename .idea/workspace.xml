@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="47636fa9-ac33-45d4-96a2-5f4382741446" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Eight/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Eight/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Seven/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lambda practice/Seven/App.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Seven.App">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="five.NiceGenerics.App" />
       <module name="Lambda practice" />
@@ -60,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="four.TempApp.Main" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eight.App" />
       <module name="Lambda practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="four.TempApp.*" />
+          <option name="PATTERN" value="Eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.Seven.App" />
         <item itemvalue="Application.six.constr.App" />
         <item itemvalue="Application.App (3)" />
         <item itemvalue="Application.App (3)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,8 @@
       <workItem from="1650914403510" duration="3808000" />
       <workItem from="1651089511967" duration="1653000" />
       <workItem from="1651145552893" duration="272000" />
-      <workItem from="1651170667192" duration="5020000" />
+      <workItem from="1651170667192" duration="7323000" />
+      <workItem from="1651347235572" duration="573000" />
     </task>
     <servers />
   </component>
