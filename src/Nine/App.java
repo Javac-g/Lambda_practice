@@ -20,6 +20,12 @@ public class App {
     }
     public static void main(String ...args){
 
+        Integer[] nums = {1,2,1,1,1,1,1,1,1,1,13,4,5,6};
+        String[] str = {"on","on","on","on","on","on","on","on","on","on","on","on"};
+
+        System.out.println(S_runner(Metod::words,str,"on" ));
+        System.out.println(S_runner(Metod::words,nums,1));
+
 
 
 
