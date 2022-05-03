@@ -30,8 +30,11 @@ public class App {
         System.out.println(i_run(Methods::digits,str,"one"));
 
         System.out.println(" " + all(Methods::words,nums,1));
+
         System.out.println(" " + all(Methods::words,str,"one"));
+
         System.out.println(" " + all(Methods::digits,nums,1));
+
         System.out.println(" " + all(Methods::digits,str,"one"));
 
 
