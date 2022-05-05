@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47636fa9-ac33-45d4-96a2-5f4382741446" name="Default Changelist" comment="" />
+    <list default="true" id="47636fa9-ac33-45d4-96a2-5f4382741446" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Ten/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lambda practice/Ten/App.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -43,13 +46,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ten.App">
-    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="five.NiceGenerics.App" />
+  <component name="RunManager" selected="Application.L1.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Eight.App" />
       <module name="Lambda practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="five.NiceGenerics.*" />
+          <option name="PATTERN" value="Eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Eight.App" />
+    <configuration name="L1.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L1.App" />
       <module name="Lambda practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Eight.*" />
+          <option name="PATTERN" value="L1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L1.App" />
         <item itemvalue="Application.Ten.App" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.Seven.App" />
         <item itemvalue="Application.six.constr.App" />
-        <item itemvalue="Application.App (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +146,8 @@
       <workItem from="1651347235572" duration="3919000" />
       <workItem from="1651419143721" duration="1153000" />
       <workItem from="1651609289666" duration="2151000" />
+      <workItem from="1651690989645" duration="1897000" />
+      <workItem from="1651768630315" duration="234000" />
     </task>
     <servers />
   </component>
