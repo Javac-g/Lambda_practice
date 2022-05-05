@@ -13,14 +13,17 @@ public class Box {
     }
 
     public int getW() {
+
         return w;
     }
 
     public int getH() {
+
         return h;
     }
 
     public int getL() {
+
         return l;
     }
 }
