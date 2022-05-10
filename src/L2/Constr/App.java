@@ -21,7 +21,7 @@ public class App {
 
         //Easy but not usefull
 
-        B<Cub<Integer>,Integer> toool = Cub<Integer> ::new;
+        B<Cub<Integer>,Integer> toool = Cub<Integer> :: new;
         B<Box,Integer> pppp = Box::new;
 
         Cub<Integer> cubic = factory(toool,31,32,33);
