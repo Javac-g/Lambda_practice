@@ -1,4 +1,7 @@
 package L3;
 
-public interface Atool {
+public interface Atool <V,T>{
+
+    V function(T[] values , T t);
+
 }
