@@ -3,7 +3,7 @@ package L4;
 public class Metod {
 
 
-    public <T> String words(T[] values, T t){
+    public static <T> String words(T[] values, T t){
 
         int count = 0;
 
@@ -15,7 +15,7 @@ public class Metod {
         return "" +  count;
     }
 
-    public  <T> Integer digits(T[] values,T t){
+    public static  <T> Integer digits(T[] values,T t){
         int count = 0;
 
         for (int i = 0; i <=values.length-1; i++){

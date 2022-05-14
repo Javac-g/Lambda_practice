@@ -19,7 +19,11 @@ public class App {
     }
     public static void main(String...args){
 
+        Integer[] N = {1,1,1,1,1,1,1,1,1,1,1,1};
+        String[] S = {"one","one","one","one","one","one","one","one","one",};
 
+        System.out.println("Val: " + A(Metod::words,S,"one"));
+        System.out.println("Val: " + A(Metod::words,N,1));
 
 
 
