@@ -12,6 +12,11 @@ public class App {
 
     }
 
+    static <V,T> V C(Atool<V,T> tool,T[] values, T t){
+
+        return tool.function(values,t);
+
+    }
     public static void main(String...args){
 
 
