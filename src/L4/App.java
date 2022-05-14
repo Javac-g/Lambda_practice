@@ -6,6 +6,12 @@ public class App {
         return tool.function(values,t);
 
     }
+    static <T> Integer B(Itool<T> tool,T[] values, T t){
+
+        return tool.function(values,t);
+
+    }
+
     public static void main(String...args){
 
 
