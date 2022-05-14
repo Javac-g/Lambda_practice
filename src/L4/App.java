@@ -28,6 +28,11 @@ public class App {
         System.out.println("Val: " + B(Metod::digits,S,"one"));
         System.out.println("Val: " + B(Metod::digits,N,1));
 
+        System.out.println("Val: " + C(Metod::words,S,"one"));
+        System.out.println("Val: " + C(Metod::words,N,1));
+
+        System.out.println("Val: " + C(Metod::digits,S,"one"));
+        System.out.println("Val: " + C(Metod::digits,N,1));
 
 
 
