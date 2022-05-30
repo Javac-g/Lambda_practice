@@ -16,4 +16,15 @@ public class Metods {
         return "" + count;
 
     }
+    static <T> Integer Digits(T[] values, T t){
+        int count = 0;
+
+        for (int i = 0; i <=values.length-1;i++){
+
+            if (values[i].equals(i))count++;
+
+        }
+        return count;
+
+    }
 }
