@@ -1,4 +1,4 @@
-package J1;
+package J1.LinksToConstructor;
 
 public interface Box_I {
 

@@ -1,4 +1,4 @@
-package J1;
+package J1.LinksToConstructor;
 
 public class App {
     static <V,T> V creator(Gen<V,T> tool,T w, T h, T l){
