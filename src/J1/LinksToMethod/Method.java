@@ -14,6 +14,17 @@ public class Method {
         return "" + count;
 
     }
+    static <F> Integer digits(F[] values,F f){
+
+        int count = 0;
+
+        for (int i = 0; i <= values.length-1; i++){
+
+            if (values[i].equals(f))count++;
+
+        }
+        return count;
+    }
 
 
 
