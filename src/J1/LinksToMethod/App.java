@@ -6,6 +6,11 @@ public class App {
         return tool.function(values,s);
 
     }
+    static <I> Integer I_Runner(Itool<I> tool, I[] values , I i){
+
+        return tool.function(values,i);
+
+    }
     public static void main(String...args){
 
 
