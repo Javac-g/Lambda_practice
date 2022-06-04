@@ -12,7 +12,11 @@ public class App {
 
         Box box = one.function(12,13,14);
 
-        Gen<>
+        Gen<Cube<Integer>,Integer> A = Cube<Integer> ::new;
+        Cube<Integer> Acube = creator(A,22,33,44);
+
+        System.out.println("Box: " + box.getH());
+        System.out.println("Cube: " + Acube.getH());
 
     }
 }
