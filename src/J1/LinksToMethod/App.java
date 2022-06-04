@@ -11,6 +11,11 @@ public class App {
         return tool.function(values,i);
 
     }
+    static <A,V>A A_Runner(Atool<A,V> tool, V[] values, V v){
+
+        return tool.function(values,v);
+
+    }
     public static void main(String...args){
 
 
