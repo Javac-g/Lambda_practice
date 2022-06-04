@@ -18,9 +18,22 @@ public class App {
     }
     public static void main(String...args){
 
+        Integer[] numb = {1,1,1,1,1,1,1,1,1,11,1,1,1,1,1,1,1,1,1,1,1};
+        String[] str = {"one","one","one","one","one","one","one","one","one","one","one","one"};
 
+        System.out.println("String Value: " + S_Runner(Method::words,str,"one"));
+        System.out.println("String Value: " + S_Runner(Method::words,numb,1));
 
+        System.out.println("Integer Value: " + I_Runner(Method::digits,str,"one"));
+        System.out.println("Integer Value: " + I_Runner(Method::digits,numb,1));
 
+        System.out.println("Generic Value: " + A_Runner(Method::words,str,"one"));
+
+        System.out.println("Generic Value: " + A_Runner(Method::words,numb,1));
+
+        System.out.println("Generic Value: " + A_Runner(Method::digits,str,"one"));
+
+        System.out.println("Generic Value: " + A_Runner(Method::digits,numb,1));
 
     }
 }
