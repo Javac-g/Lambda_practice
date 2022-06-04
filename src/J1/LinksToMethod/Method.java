@@ -14,6 +14,7 @@ public class Method {
         return "" + count;
 
     }
+
     static <F> Integer digits(F[] values,F f){
 
         int count = 0;
