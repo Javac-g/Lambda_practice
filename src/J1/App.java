@@ -15,8 +15,12 @@ public class App {
         Gen<Cube<Integer>,Integer> A = Cube<Integer> ::new;
         Cube<Integer> Acube = creator(A,22,33,44);
 
+        Gen<Box,Integer> B = Box::new;
+        Box Bcube = creator(B,333,444,555);
+
         System.out.println("Box: " + box.getH());
         System.out.println("Cube: " + Acube.getH());
+        System.out.println("Box cube: " + Bcube.getH());
 
     }
 }
