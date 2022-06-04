@@ -10,7 +10,7 @@ public class Metods {
 
         for (int i = 0; i <=values.length-1; i++){
 
-            if (values[i].equals(i))count++;
+            if (values[i].equals(t))count++;
 
         }
         return "" + count;
@@ -21,7 +21,7 @@ public class Metods {
 
         for (int i = 0; i <=values.length-1;i++){
 
-            if (values[i].equals(i))count++;
+            if (values[i].equals(t))count++;
 
         }
         return count;
