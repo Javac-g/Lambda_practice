@@ -13,6 +13,7 @@ public class Main {
     public static void main(String...args){
         String[] str = {"hello","Me","one","take","For"};
         Integer[] num = {1,2,3,4,3,2,3,1,3,4,3,2,1,2,3,4,3,2,1};
+
         System.out.println(One(Method::first,str,"hello"));
         System.out.println(One(Method::first,num,1));
         System.out.println(Two(Method::second,str,"take"));
