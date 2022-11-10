@@ -1,6 +1,6 @@
 package practice_10_11_2022.Simple;
 
-public interface Tool {
+public interface A {
     String function(String str);
 
 }
