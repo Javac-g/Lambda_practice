@@ -7,5 +7,9 @@ public class Main {
     public static void main(String...args){
         System.out.println(runner((str)->str.toUpperCase(),"hello"));
         System.out.println(runner(String::toUpperCase,"hello"));
+
+        MyInterface a = String::toUpperCase;
+        String str = "abcdefg";
+        System.out.println(runner(a,str));
     }
 }
