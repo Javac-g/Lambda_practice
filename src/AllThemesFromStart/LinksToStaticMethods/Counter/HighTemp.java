@@ -1,7 +1,7 @@
 package AllThemesFromStart.LinksToStaticMethods.Counter;
 
 public class HighTemp {
-    private static int hTemp;
+    private  int hTemp;
 
     public HighTemp(int hTemp) {
         this.hTemp = hTemp;
@@ -11,9 +11,9 @@ public class HighTemp {
         return hTemp;
     }
 
-    public static boolean sameTemp(HighTemp ht2){
+    public  boolean sameTemp(HighTemp ht2){
 
-        return  hTemp == ht2.gethTemp();
+        return  this.hTemp == ht2.gethTemp();
 
     }
     public boolean lessThanTemp(HighTemp ht2){
