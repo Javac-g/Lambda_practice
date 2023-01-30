@@ -8,5 +8,9 @@ public class Main {
         String in = "Hi my name is Max";
         String out = runner(Coder::code,in);
         System.out.println(out);
+        Coder coder = new Coder();
+
+        String s = runner(coder::reverse,out);
+        System.out.println(s);
     }
 }
