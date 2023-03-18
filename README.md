@@ -1,5 +1,5 @@
 <div id="header" >
-  <img src="https://github.com/Javac-g/Generics_practice/blob/master/generics.png?raw=true"/>
+  <img src="https://github.com/Javac-g/Lambda_practice/blob/master/LAMBDAS.png?raw=true"/>
 </div>
 
 ### This is my repository for practicing  Java Lambda Expressions:
