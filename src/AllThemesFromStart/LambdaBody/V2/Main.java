@@ -24,8 +24,13 @@ public class Main {
             b = b * b;
             return a + b;
         };
+        MyNumber num2 = ()->{
+            return 55.5F;
+        };
 
         System.out.println("Num: " + num.getNumb());
+        System.out.println("Num 2: " + num2.getNumb());
+
         System.out.println("Str 1: " + str1.getStr("hello uppercase string"));
         System.out.println("Str 2: " + str2.getStr("   Trim   "));
         System.out.println("Str 3: " + str3.getStr("Maks"));
