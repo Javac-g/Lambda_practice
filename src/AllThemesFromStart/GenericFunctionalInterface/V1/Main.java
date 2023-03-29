@@ -1,4 +1,4 @@
-package AllThemesFromStart.GenericFunctionalInterface;
+package AllThemesFromStart.GenericFunctionalInterface.V1;
 
 public class Main {
     public static void main(String...args){
