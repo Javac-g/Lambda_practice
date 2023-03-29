@@ -1,4 +1,4 @@
-package AllThemesFromStart.LambdaAsArguments;
+package AllThemesFromStart.LambdaAsArguments.V1;
 
 public class Main {
     public static  String runner(MyInterface  interf,String str){

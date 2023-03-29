@@ -1,4 +1,4 @@
-package AllThemesFromStart.LambdaAsArguments;
+package AllThemesFromStart.LambdaAsArguments.V1;
 
 public class One {
     public static String getSt(String str){
