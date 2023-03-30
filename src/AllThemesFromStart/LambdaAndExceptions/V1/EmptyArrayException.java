@@ -1,4 +1,4 @@
-package AllThemesFromStart.LambdaAndExceptions;
+package AllThemesFromStart.LambdaAndExceptions.V1;
 
 public class EmptyArrayException extends Exception{
     EmptyArrayException(){
