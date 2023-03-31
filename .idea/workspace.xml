@@ -2,145 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47636fa9-ac33-45d4-96a2-5f4382741446" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Eight/All.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Eight/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Eight/Itool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Eight/Metod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Eight/Stool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L1/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L1/Atool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L1/Itool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L1/Metod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L1/Stool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L2/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L2/Atool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L2/Constr/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L2/Constr/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L2/Constr/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L2/Constr/Box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L2/Constr/Cub.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L2/Itool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L2/Method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L2/Stool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L3/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L3/Atool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L3/Itool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L3/Method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L3/Stool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L4/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L4/Atool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L4/Itool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L4/Metod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L4/Stool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L5/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L5/Atool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L5/Itool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L5/Metods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/L5/Stool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Nine/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Nine/AppTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Nine/Atool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Nine/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Nine/BB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Nine/Box_one.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Nine/Box_two.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Nine/Itool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Nine/Metod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Nine/Stool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/One/IT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/One/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/One/One.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/One/ST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/One/Tool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/One/ToolI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/One/ToolS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Seven/All.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Seven/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Seven/Itool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Seven/Metod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Seven/Stool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Ten/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Ten/Atool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Ten/Itool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Ten/Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Ten/Stool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Three/A_TOOL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Three/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Three/Box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Three/Cn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Three/Constr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Three/Cube.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Three/CubeFunc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Three/I_TOOL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Three/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Three/Main_Two.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Three/Map.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Three/Metod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Three/MyEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Three/S_TOOL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Three/XY.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Three/XYZ.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Three/XYZT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Two/ALL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Two/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Two/IntINF.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Two/Metod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Two/Settup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Two/Setup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/Two/StrINF.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/five/MethLink/A_Tool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/five/MethLink/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/five/MethLink/I_Tool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/five/MethLink/Metod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/five/MethLink/S_Tool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/five/NiceGenerics/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/five/NiceGenerics/Map.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/five/NiceGenerics/XY.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/five/NiceGenerics/XYZ.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/five/NiceGenerics/XYZT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/Coordinates/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/Coordinates/Map.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/Coordinates/XY.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/Coordinates/XYZ.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/Coordinates/XYZT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/LinksCOnstructor/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/LinksCOnstructor/Box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/LinksCOnstructor/Box_one.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/LinksCOnstructor/Box_three.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/LinksCOnstructor/Box_two.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/LinksCOnstructor/Creator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/LinksMethod/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/LinksMethod/Metod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/LinksMethod/all.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/LinksMethod/digits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/LinksMethod/words.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/TempApp/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/TempApp/Temperature.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/TempApp/Tool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/practice/Metod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/practice/Temp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/four/practice/Tool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/six/constr/ALL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/six/constr/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/six/constr/Tool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/six/constr/box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/six/constr/rumb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/six/metod/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/six/metod/Atool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/six/metod/Itool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/six/metod/Metod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lambda practice/six/metod/Stool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AllThemesFromStart/LinksToStaticMethods/Coder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AllThemesFromStart/LinksToStaticMethods/V1/Coder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AllThemesFromStart/LinksToStaticMethods/Counter/CountInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AllThemesFromStart/LinksToStaticMethods/V1/Counter/CountInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AllThemesFromStart/LinksToStaticMethods/Counter/HighTemp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AllThemesFromStart/LinksToStaticMethods/V1/Counter/HighTemp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AllThemesFromStart/LinksToStaticMethods/Counter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AllThemesFromStart/LinksToStaticMethods/V1/Counter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AllThemesFromStart/LinksToStaticMethods/CounterTraining/HighTemp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AllThemesFromStart/LinksToStaticMethods/V1/CounterTraining/HighTemp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AllThemesFromStart/LinksToStaticMethods/CounterTraining/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AllThemesFromStart/LinksToStaticMethods/V1/CounterTraining/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AllThemesFromStart/LinksToStaticMethods/CounterTraining/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AllThemesFromStart/LinksToStaticMethods/V1/CounterTraining/MyInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AllThemesFromStart/LinksToStaticMethods/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AllThemesFromStart/LinksToStaticMethods/V1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AllThemesFromStart/LinksToStaticMethods/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AllThemesFromStart/LinksToStaticMethods/V1/MyInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AllThemesFromStart.LinksToStaticMethods.V2.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="AllThemesFromStart.GenericFunctionalInterface.V2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AllThemesFromStart.GenericFunctionalInterface.V2.Main" />
       <module name="Lambda practice" />
@@ -210,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AllThemesFromStart.LambdaBody.V2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AllThemesFromStart.LambdaBody.V2.Main" />
+    <configuration name="AllThemesFromStart.LinksToStaticMethods.V2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AllThemesFromStart.LinksToStaticMethods.V2.Main" />
       <module name="Lambda practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AllThemesFromStart.LambdaBody.V2.*" />
+          <option name="PATTERN" value="AllThemesFromStart.LinksToStaticMethods.V2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AllThemesFromStart.LinksToStaticMethods.V2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AllThemesFromStart.LinksToStaticMethods.V2.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AllThemesFromStart.LinksToStaticMethods.V2.Counter.Main" />
       <module name="Lambda practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AllThemesFromStart.LinksToStaticMethods.V2.*" />
+          <option name="PATTERN" value="AllThemesFromStart.LinksToStaticMethods.V2.Counter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.AllThemesFromStart.LinksToStaticMethods.V2.Main" />
         <item itemvalue="Application.AllThemesFromStart.LambdaAndExceptions.V2.Main" />
         <item itemvalue="Application.One" />
         <item itemvalue="Application.AllThemesFromStart.GenericFunctionalInterface.V2.Main" />
-        <item itemvalue="Application.AllThemesFromStart.LambdaBody.V2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +173,7 @@
       <workItem from="1680103081540" duration="12247000" />
       <workItem from="1680192522081" duration="4191000" />
       <workItem from="1680201481389" duration="1162000" />
-      <workItem from="1680284069614" duration="2273000" />
+      <workItem from="1680284069614" duration="4827000" />
     </task>
     <servers />
   </component>
