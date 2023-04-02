@@ -14,7 +14,7 @@ public class Main {
         String[] str = {"hello","hello","hello"};
         Integer[] nums = {1,1,1,1,1,2,5,6,7,8,0};
 
-        System.out.println("Result: " + runnerNum(Coder::matchesInt,nums,1)); //Generic method return int but consume Any args
+        System.out.println("Result: " + runnerNum(Coder::<Integer>matchesInt,nums,1)); //Generic method return int but consume Any args
         System.out.println("Result: " + runnerNum(Coder::matchesInt,str,"Hello"));
 
         System.out.println(runnerStr(Coder::matchesStr , str,"Hello")); //Generic method return Str but consume Any Args
