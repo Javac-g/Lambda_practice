@@ -10,7 +10,7 @@ public class Main {
         }
         DishComparator dishComparator = new DishComparator();
 
-        Dishes maxCalories = Collections.max(dishlist, dishComparator);
+        Dishes maxCalories = Collections.max(dishlist, dishComparator::compare);
 
         System.out.println(dishlist);
         System.out.println(maxCalories);
