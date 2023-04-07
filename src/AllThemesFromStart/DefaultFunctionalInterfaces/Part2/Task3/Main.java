@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.function.BinaryOperator;
 
 public class Main {
-    private static BinaryOperator<String> binaryOperator = (String name,String surname)->{
+    public static BinaryOperator<String> binaryOperator = (String name,String surname)->{
         return String.format("Hello %s %s !!!", name , surname);
     };
 
