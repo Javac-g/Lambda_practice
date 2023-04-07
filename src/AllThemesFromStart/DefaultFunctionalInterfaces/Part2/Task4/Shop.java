@@ -4,30 +4,13 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Shop {
-     private List<Person> customers = new ArrayList<>();
-    private List<Product> sold = new ArrayList<>();
-    public Shop(List<Person> customers) {
-        this.customers = customers;
-    }
+    private List<MakeDecision> list = new ArrayList<>();
 
-    public  Integer sale(Product product){
-
+    public int sale(String product,int discount){
         int count = 0;
-        for (Person p : customers){
-            if (p.tool.function(product)){
-                sold.add(product);
-                count++;
-            }
+        for (MakeDecision goShopping : list){
+            if (goShopping.function(product, discount))count++;
         }
-
         return count;
-    }
-
-    public List<Person> getCustomers() {
-        return customers;
-    }
-
-    public List<Product> getSold() {
-        return sold;
     }
 }
